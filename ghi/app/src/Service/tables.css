@@ -1,0 +1,79 @@
+.jumbotron {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.jumbotron h1 {
+  margin-bottom: 40px;
+}
+
+.btn-lg {
+  display: block;
+  margin: 40px auto;
+}
+
+.table-custom {
+  text-align: center;
+  vertical-align: middle;
+  width: 100%; /* set the width to be 90% of the parent container */
+  margin: auto; /* center the table */
+}
+
+.search-bar {
+  width: 50%; /* make the search bar wider */
+  margin-bottom: 40px; /* add space below the search bar */
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2); /* add shadow effect */
+  padding: 12px; /* add some padding inside the search bar for better visual */
+}
+
+.form-container {
+  margin-top: 50px; /* Adjust the value as needed */
+}
+
+.form-header {
+  text-align: center; /* center the text */
+  margin-bottom: 50px; /* add space below the header */
+}
+
+.create-button {
+  margin-top: 20px; /* Adjust the value as needed */
+}
+
+.cancel-button,
+.finish-button {
+  margin: 0 10px; /* Add space around the buttons */
+  border: none; /* No border */
+  color: white; /* White text */
+  padding: 10px 20px; /* Button size */
+  text-align: center; /* Center the text */
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s; /* Transition effect */
+  cursor: pointer;
+  border-radius: 12px; /* Rounded corners */
+}
+
+.cancel-button {
+  background-color: #ff0000; /* Red background */
+}
+
+.cancel-button:hover {
+  background-color: #cc0000; /* Darken the background on hover */
+}
+
+.finish-button:hover {
+  background-color: #00688b; /* Darken the background on hover */
+}
+
+.finish-button {
+  background-color: #4caf50; /* Green background */
+}
+
+.delete-technician {
+  background-color: #ff0000; /* Red background */
+}
+
+.delete-technician:hover {
+  background-color: #00688b; /* Darken the background on hover */
+}

@@ -1,0 +1,35 @@
+[33m8455599[m[33m ([m[1;36mHEAD -> [m[1;32mBaiyu[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m resolved merge conflicts
+[33med67e7c[m backend complete and stable
+[33m44b213b[m commit prior to push and merge with main
+[33mc169d44[m added employee id and is functioning
+[33m66ce34c[m saving before adding employee.id
+[33m1b9ce69[m All tests pass, post test code alterations
+[33m99afc93[m commit prior to first merge
+[33m365f8b4[m all api's functioning on the backend
+[33ma7dd13e[m successfully completed and tested basic backend functions
+[33m948d6a4[m added models and admin
+[33mda932b7[m updated name and responsibility in readme.md
+[33mb3c3b2c[m first commit - only readme changed
+[33m7a2352c[m Merge branch 'june-9-test-fixes' into 'main'
+[33mcc96332[m added forward slashes to paths in test_poller
+[33m4fc87e8[m fixed paths, service test names, and  tests using employee_id rather than employee.id to look up employee
+[33m8391f49[m adds in statement in poller based code.
+[33m9bba297[m Merge branch 'main' of gitlab.com:sjp19-public-resources/sjp-2022-april/project-beta
+[33md5cc2dc[m adds date to common/json.py encoder.
+[33md5c2ab1[m adds fix for part of the poller test.
+[33m8f5b966[m Merge branch 'testing'
+[33mcc2f2ed[m adds dj_database_url
+[33m4fa060f[m changed allowed_host
+[33m1d9c116[m Merge branch 'testing' into 'main'
+[33m5e0d159[m[33m ([m[1;31morigin/testing[m[33m)[m Bring tests up to date
+[33ma2ff9ce[m Merge branch 'inventory-updates' of gitlab.com:sjp19-public-resources/sjp-2022-april/project-beta into testing
+[33me1cebc3[m updated poller tests.
+[33mfd4e8a4[m Update Automobile model with `sold` field
+[33mba55221[m Revert "adds import dj_database_url"
+[33mea27e20[m Merge branch 'testing' into 'main'
+[33m42b472e[m adds tests for sales/service api and poller.
+[33m0ab3670[m adds import dj_database_url
+[33m7cbf17e[m Update
+[33me3674d3[m Update
+[33m5bdf84e[m Fix a dictionary key value.
+[33m615c222[m Initial import
