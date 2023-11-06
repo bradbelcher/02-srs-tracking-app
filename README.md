@@ -1,4 +1,4 @@
-# The CarCar Project
+# The Show-Room Shepherd Project
 
 Team:
 
@@ -8,7 +8,7 @@ Team:
 
 ## Design
 
-Welcome to CarCar, an application designed for car dealerships in need of an integrated assets and human resources management system! The design of this project is to create RESTful API calls to 3 different microservices: Inventory, Sales, and Service. The front-end of the application uses React, the back-end of the application uses Django, and the database used is PostgreSQL.
+Welcome to The Show-Room Shepherd Project, an application designed for car dealerships in need of an integrated assets and human resources management system! The design of this project is to create RESTful API calls to 3 different microservices: Inventory, Sales, and Service. The front-end of the application uses React, the back-end of the application uses Django, and the database used is PostgreSQL.
 
 ## Application Features
 
